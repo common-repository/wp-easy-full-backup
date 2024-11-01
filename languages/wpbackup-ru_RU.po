@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-15 11:23+0300\n"
+"PO-Revision-Date: 2016-07-15 12:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || "
+"n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:31
+msgid "Full backup of website"
+msgstr "Полное резервное копирование сайта"
+
+#: index.php:32
+msgid "WP Backup"
+msgstr "Рез. копия"
+
+#: tremplates/backend_home.php:9
+msgid "Backup WordPress site"
+msgstr "Резервное копирование WP"
+
+#: tremplates/backend_home.php:13
+msgid "Make sure to remove files created by the site to store files on the server is not safe !!!"
+msgstr "Обязательно удаляйте созданные архивы сайта, хранить архивы на сервере не безопасно!!!"
+
+#: tremplates/backend_home.php:26
+msgid "Create a copy of the website"
+msgstr "Создать копию сайта"
+
+#: tremplates/backend_home.php:31
+msgid "Clear the directory and temporary files"
+msgstr "Очистить каталог с архивом и временые файлы"
+
+#: tremplates/backend_home.php:39
+msgid "Stages of site archive"
+msgstr "Этапы архивирования"
+
+#: tremplates/backend_home.php:44
+msgid "Create database copies"
+msgstr "Создание копии БД"
+
+#: tremplates/backend_home.php:56
+msgid "Archiving site"
+msgstr "Архивирование сайта"
+
+#: tremplates/backend_home.php:68
+msgid "Delete temporary files"
+msgstr "Удаление временных файлов"
+
+#: tremplates/backend_home.php:83
+msgid "Backups"
+msgstr "Резервные копии"
+
+#: tremplates/backend_home.php:149
+msgid "Could not delete the temporary database dump file"
+msgstr "Не удалось удалить временные файлы БД"
+
+#: tremplates/backend_home.php:157
+msgid "Could not archive site"
+msgstr "Не удалось архивировать каталог сайта"
+
+#: tremplates/backend_home.php:164
+msgid "Сould not create a database dump"
+msgstr "Не удалось создать дамп БД"
+
+#: tremplates/backend_home.php:179
+msgid "Cleaning complete"
+msgstr "Очистка завершена"
+
+#: tremplates/backend_home.php:182
+msgid "Error cleaning directory"
+msgstr "Ошибка очистки каталога"
